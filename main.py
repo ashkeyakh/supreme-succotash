@@ -11,6 +11,7 @@ def print_hi(name):
     print("amiiin jooon THird")
     print(" frouth log")
     print("fff")
+    print("ggg")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
