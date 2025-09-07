@@ -10,9 +10,11 @@ def print_hi(name):
     print("Seconnnnd log")
     print("amiiin jooon THird")
     print(" frouth log")
+    print("fff")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
+    print("ggg")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
